@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Gemini](https://img.shields.io/badge/Gemini-AI-blue?logo=google)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_gemini_logo.png" width="120"/>
+
