@@ -1,4 +1,4 @@
-## Hi there 👋 hi
+## Hi there 👋 신정
 
 <!--
 **202578145/202578145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
