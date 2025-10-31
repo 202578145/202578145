@@ -1,4 +1,4 @@
-## Hi there 
+<!-- 상단 캡슐 이미지 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
@@ -84,7 +84,7 @@ MBTI: ISTJ (여기에 MBTI)
 
 HTML5: 시맨틱 태그를 활용한 웹 표준 구조 설계
 
-CSS3: Flexbox와 Grid를 이용한 반응형 레이아웃 구현
+CSS3: Flexbox와 Grid를 이용한 반응형 레이S아웃 구현
 
 JavaScript: 다크 모드(Dark Mode) 토글 기능 구현
 
@@ -115,4 +115,3 @@ GitHub Pages를 통한 배포
 ▶ 투두리스트 사용해보기 (배포 링크 예시)
 
 ▶ 코드 보러가기 (저장소 링크 예시)
-
