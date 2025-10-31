@@ -26,9 +26,13 @@
 🧑‍💻 About Me
 
 💫 이름: 정윤서
+
 🏫 학교: 한신대학교 (여기에 학교)
+
 🎓 전공: AISW계열 1학년 재학 중
+
 🎂 생일: 1월 13일
+
 ✉️ Email: ys060113@gmail.com
 
 🛠️ Tech Stack & Tools
@@ -60,8 +64,6 @@
 </p>
 
 🚀 Featured Projects
-
-(평가 기준에 맞춘 1학년 수준의 가상 프로젝트 예시입니다)
 
 1. 개인 기술 블로그 (Static Website)
 
