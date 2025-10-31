@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 
-
 <p align="center">
 <h1 align="center">👋 안녕하세요! 정윤서입니다.</h1>
 <p align="center">
@@ -37,12 +36,11 @@
 
 🛠️ Tech Stack & Tools
 
-
 📚 Learning Now
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge%26logo=html5%26logoColor=white" alt="HTML5">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge%26logo=css3%26logoColor=white" alt="CSS3">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
 </p>
 
@@ -65,6 +63,8 @@
 
 🚀 Featured Projects
 
+
+
 1. 개인 기술 블로그 (Static Website)
 
 프로젝트 제목: dev-log - 개발 학습 기록 블로그
@@ -75,7 +75,7 @@
 
 HTML5: 시맨틱 태그를 활용한 웹 표준 구조 설계
 
-CSS3: Flexbox와 Grid를 이용한 반응형 레이S아웃 구현
+CSS3: Flexbox와 Grid를 이용한 반응형 레이아웃 구현
 
 JavaScript: 다크 모드(Dark Mode) 토글 기능 구현
 
@@ -83,7 +83,7 @@ JavaScript: 다크 모드(Dark Mode) 토글 기능 구현
 
 GitHub Pages를 통한 정적 웹사이트 배포
 
-▶ 블로그 방문하기 (배포 링크 예시)
+▶ 블로그 방문하기 (배포 링크 예시) 
 
 ▶ 코드 보러가기 (저장소 링크 예시)
 
@@ -149,6 +149,6 @@ HTML의 태그를 혼용하여, 인사말과 소개글을 중앙 정렬해 가�
 
 깃허브는 이 '특별한 저장소'의 README.md 파일을 자동으로 인식하여,
 
-저의 메인 프로필 페이지 (https://github.com/202578145) 에 자동으로 띄워줍니다.
+저의 메인 프로필 페이지 (https://github.com/202578145)에 자동으로 띄워줍니다.
 
 따라서, 이 README.md 파일을 VS Code에서 수정한 뒤 git push를 하기만 하면, 별도 배포 없이 프로필이 자동 업데이트됩니다.
