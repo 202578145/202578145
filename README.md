@@ -18,6 +18,7 @@
 </p>
 
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 🧑‍💻 About Me
@@ -34,13 +35,13 @@
 
 🛠️ Tech Stack & Tools
 
-(모든 뱃지 링크를 올바른 주소로 수정했습니다.)
+
 
 📚 Learning Now
 
 <p>
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge%26logo=html5%26logoColor=white" alt="HTML5">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge%26logo=css3%26logoColor=white" alt="CSS3">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
 </p>
 
@@ -63,7 +64,6 @@
 
 🚀 Featured Projects
 
-(모든 프로젝트 링크를 올바른 주소로 수정했습니다.)
 
 1. 개인 기술 블로그 (Static Website)
 
@@ -83,7 +83,7 @@ JavaScript: 다크 모드(Dark Mode) 토글 기능 구현
 
 GitHub Pages를 통한 정적 웹사이트 배포
 
-▶ 블로그 방문하기 (배포 링크 예시) (<- 이 부분은 나중에 진짜 만들면 링크를 거세요!)
+▶ 블로그 방문하기 (배포 링크 예시) 
 
 ▶ 코드 보러가기 (저장소 링크 예시)
 
@@ -109,7 +109,6 @@ GitHub Pages를 통한 배포
 
 💡 이 프로필을 만든 과정 (My Profile Workflow)
 
-(과제 제출 요구사항에 맞추어, 이 프로필 페이지 자체를 하나의 프로젝트로 간주하여 작성하였습니다.)
 
 1. 프로젝트 제목 및 목적
 
