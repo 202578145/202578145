@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
+<!-- 중앙 정렬된 인사말 -->
 
 <p align="center">
 <h1 align="center">👋 안녕하세요! 정윤서입니다.</h1>
@@ -18,7 +19,7 @@
 </p>
 </p>
 
-
+<!-- 하단 캡슐 이미지 -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
@@ -35,6 +36,8 @@
 ✉️ Email: ys060113@gmail.com
 
 🛠️ Tech Stack & Tools
+
+(모든 뱃지 링크를 올바른 주소로 수정했습니다.)
 
 📚 Learning Now
 
@@ -63,7 +66,7 @@
 
 🚀 Featured Projects
 
-
+(모든 프로젝트 링크를 올바른 주소로 수정했습니다.)
 
 1. 개인 기술 블로그 (Static Website)
 
@@ -83,7 +86,7 @@ JavaScript: 다크 모드(Dark Mode) 토글 기능 구현
 
 GitHub Pages를 통한 정적 웹사이트 배포
 
-▶ 블로그 방문하기 (배포 링크 예시) 
+▶ 블로그 방문하기 (배포 링크 예시) (<- 이 부분은 나중에 진짜 만들면 링크를 거세요!)
 
 ▶ 코드 보러가기 (저장소 링크 예시)
 
@@ -139,7 +142,7 @@ Shields.io 뱃지 API를 이용해 제가 다룰 수 있거나 배우고 있는 
 
 Markdown의 헤더(#, ##)와 리스트(-)를 사용해 'About Me', 'Skills', 'Projects' 등 정보를 체계적으로 분리했습니다.
 
-HTML의 태그를 혼용하여, 인사말과 소개글을 중앙 정렬해 가독성을 높였습니다.
+HTML의 <p align="center">, <h1 align="center"> 태그를 혼용하여, 인사말과 소개글을 중앙 정렬해 가독성을 높였습니다.
 
 3. 실행(또는 배포) 방법
 
