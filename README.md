@@ -3,7 +3,7 @@
 <p align="center">
 <h1 align="center">👋 안녕하세요! 정윤서입니다.</h1>
 <p align="center">
-<b>AISW 계열 1학년</b>으로 재학 중이며,dd
+<b>AISW 계열 1학년</b>으로 재학 중이며,
 
 
 
